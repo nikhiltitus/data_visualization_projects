@@ -4,4 +4,4 @@
 * [Map visualization (Falal crashes in USA data)](https://bl.ocks.org/nikhiltitus/raw/2c06fbac409faa6e15c2318d4a246a3a/)
 * [Time series visualization (SENSEX stock exchange data)](https://bl.ocks.org/nikhiltitus/raw/2071a0d35576f4d167df909ad5d875a1/)
 * [Health news in twitter](https://bl.ocks.org/nikhiltitus/raw/2538600badf063e15ce11884664627ce/)
-* Email's sent in an EU organization(https://bl.ocks.org/nikhiltitus/raw/d7defd5673bf03df755d7bf5501ca8bc/)
+* [Email's sent in an EU organization](https://bl.ocks.org/nikhiltitus/raw/d7defd5673bf03df755d7bf5501ca8bc/)
